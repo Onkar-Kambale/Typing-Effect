@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  font-family: 'Courier New', Courier, monospace;
+  background: linear-gradient(135deg, #000428, #004e92);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.typing-text {
+  color: #00e0ff;
+}
+
+.cursor {
+  display: inline-block;
+  width: 10px;
+  background-color: #00e0ff;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 50%, 100% {
+    opacity: 1;
+  }
+  25%, 75% {
+    opacity: 0;
+  }
+}
+
+p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
