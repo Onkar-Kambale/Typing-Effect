@@ -10,7 +10,7 @@ This is a **responsive website** with a **typewriter-style animated typing effec
 
 ## 📸 Screenshot
 
-![Screenshot of the Typing Effect Website](screenshot.png)
+![Screenshot of the Typing Effect Website](screenshot00.png)
 
 ---
 
