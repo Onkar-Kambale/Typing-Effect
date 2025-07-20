@@ -4,7 +4,7 @@ This is a **responsive website** with a **typewriter-style animated typing effec
 
 ## 🔗 Live Demo
 
-[👉 Click here to view the deployed site]([https://your-deployed-site-link.com](https://onkar-kambale.github.io/Typing-Effect/))
+[👉 Click here to view the deployed site]([https://onkar-kambale.github.io/Typing-Effect/])
 
 ---
 
